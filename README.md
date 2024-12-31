@@ -1,4 +1,4 @@
-# Hi there, I'm <span style="color:blue; font-weight:bold;">Alagandula Kavya Sree</span> 👋
+# Hi there, I'm <span style="color:blue; font-weight:bold;">Alagandhula Kavya sree</span> 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer . I enjoy creating dynamic, responsive web applications and continuously learning new technologies to improve my skills.
 
